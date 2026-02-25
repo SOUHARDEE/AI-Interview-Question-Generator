@@ -1,0 +1,27 @@
+[
+  {
+    "skill": "NLP",
+    "difficulty": "Easy",
+    "question": "What is tokenization in NLP?"
+  },
+  {
+    "skill": "NLP",
+    "difficulty": "Medium",
+    "question": "Explain the attention mechanism in Transformers."
+  },
+  {
+    "skill": "Machine Learning",
+    "difficulty": "Medium",
+    "question": "What is the bias-variance tradeoff?"
+  },
+  {
+    "skill": "Python",
+    "difficulty": "Easy",
+    "question": "What are Python decorators?"
+  },
+  {
+    "skill": "Deep Learning",
+    "difficulty": "Hard",
+    "question": "Explain vanishing gradient problem in deep neural networks."
+  }
+]

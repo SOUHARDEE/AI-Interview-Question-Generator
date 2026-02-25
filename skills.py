@@ -1,0 +1,20 @@
+skill_list = [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Transformers",
+    "Cloud Computing",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "System Design",
+    "Data Structures",
+    "Algorithms",
+    "SQL",
+    "Database Management",
+    "DevOps",
+    "Microservices",
+    "REST APIs",
+    "Computer Vision"
+]
